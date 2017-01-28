@@ -1,0 +1,607 @@
+# depslib dependency file v1.0
+1449655358 source:e:\koleya\1st year\1st term\computer\project\chessproject\chess\lib\global.c
+
+1449609424 source:e:\koleya\1st year\1st term\computer\project\chessproject\chess\lib\intialization.c
+
+1449654304 source:e:\koleya\1st year\1st term\computer\project\chessproject\chess\lib\validation.c
+	<stdlib.h>
+	"global.h"
+
+1449643424 e:\koleya\1st year\1st term\computer\project\chessproject\chess\lib\global.h
+
+1449655442 source:e:\koleya\1st year\1st term\computer\project\chessproject\chess\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/validation.h"
+	"lib/global.h"
+
+1449654255 e:\koleya\1st year\1st term\computer\project\chessproject\chess\lib\validation.h
+
+1449655467 source:e:\koleya\1st year\1st term\computer\project\chessproject\chess\lib\movecheck.c
+	"global.h"
+
+1449655358 source:c:\users\mavloper\google drive\college\1st year\programming\project\chessm\lib\global.c
+
+1449658566 source:c:\users\mavloper\google drive\college\1st year\programming\project\chessm\lib\intialization.c
+	<stdio.h>
+	"global.h"
+
+1449658799 c:\users\mavloper\google drive\college\1st year\programming\project\chessm\lib\global.h
+
+1449658810 source:c:\users\mavloper\google drive\college\1st year\programming\project\chessm\lib\validation.c
+	<stdlib.h>
+	"global.h"
+
+1449658687 source:c:\users\mavloper\google drive\college\1st year\programming\project\chessm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/validation.h"
+	"lib/global.h"
+	"lib/intialization.h"
+
+1449654255 c:\users\mavloper\google drive\college\1st year\programming\project\chessm\lib\validation.h
+
+1449658611 c:\users\mavloper\google drive\college\1st year\programming\project\chessm\lib\intialization.h
+	"global.h"
+
+1449689376 source:e:\koleya\1st year\1st term\computer\project\chessproject\lib\global.c
+	<stdio.h>
+	"global.h"
+
+1449838723 e:\koleya\1st year\1st term\computer\project\chessproject\lib\global.h
+
+1450027512 source:e:\koleya\1st year\1st term\computer\project\chessproject\lib\intialization.c
+	<stdio.h>
+	"global.h"
+
+1450089566 source:e:\koleya\1st year\1st term\computer\project\chessproject\lib\movecheck.c
+	"global.h"
+
+1450080532 source:e:\koleya\1st year\1st term\computer\project\chessproject\lib\validation.c
+	<stdlib.h>
+	"global.h"
+	<ctype.h>
+
+1450089745 source:e:\koleya\1st year\1st term\computer\project\chessproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/validation.h"
+	"lib/global.h"
+	"lib/intialization.h"
+	"lib/check.h"
+
+1449906563 e:\koleya\1st year\1st term\computer\project\chessproject\lib\validation.h
+
+1449962420 e:\koleya\1st year\1st term\computer\project\chessproject\lib\intialization.h
+
+1450027512 source:e:\chessproject\chessm\lib\intialization.c
+	<stdio.h>
+	"global.h"
+
+1450203272 e:\chessproject\chessm\lib\global.h
+
+1450477362 source:e:\chessproject\chessm\lib\validation.c
+	<stdlib.h>
+	"global.h"
+	<ctype.h>
+
+1450503252 source:e:\chessproject\chessm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/validation.h"
+	"lib/global.h"
+	"lib/intialization.h"
+	"lib/check.h"
+	"lib/undo.h"
+	"lib/stalemate.h"
+	"windows.h"
+
+1449906563 e:\chessproject\chessm\lib\validation.h
+
+1449962420 e:\chessproject\chessm\lib\intialization.h
+
+1450116131 source:e:\chessproject\chessm\lib\global.c
+	<stdio.h>
+	"global.h"
+
+1450477132 source:e:\chessproject\chessm\lib\movecheck.c
+	"global.h"
+
+1449964649 source:e:\chessproject\chessm\lib\makemove.c
+	"global.h"
+
+1449689521 source:e:\chessproject\chessm\lib\makemove.h
+	"global.h"
+
+1449964649 source:e:\koleya\1st year\1st term\computer\project\chessproject\lib\makemove.c
+	"global.h"
+
+1450087753 source:e:\koleya\1st year\1st term\computer\project\chessproject\lib\check.c
+	"global.h"
+
+1450087719 e:\koleya\1st year\1st term\computer\project\chessproject\lib\check.h
+
+1450481370 source:e:\chessproject\chessm\lib\check.c
+	"global.h"
+	"moveCheck.h"
+
+1450385630 e:\chessproject\chessm\lib\movecheck.h
+
+1450200807 source:e:\chessproject\chessm\lib\undo.c
+	<ctype.h>
+	"global.h"
+
+1450481774 e:\chessproject\chessm\lib\check.h
+
+1450185759 e:\chessproject\chessm\lib\undo.h
+
+1450261155 source:e:\chessproject\chessm\lib\saveload.c
+	"global.h"
+	<stdio.h>
+	<string.h>
+
+1450481642 source:e:\chessproject\chessm\lib\stalemate.c
+	"global.h"
+	"moveCheck.h"
+	"validation.h"
+	"check.h"
+
+1450443740 e:\chessproject\chessm\lib\stalemate.h
+
+1450481370 source:e:\chessproject\chessm - copy\lib\check.c
+	"global.h"
+	"moveCheck.h"
+
+1450208483 e:\chessproject\chessm - copy\lib\global.h
+
+1450462816 e:\chessproject\chessm - copy\lib\movecheck.h
+
+1449689376 source:e:\chessproject\chessm - copy\lib\global.c
+	<stdio.h>
+	"global.h"
+
+1450027512 source:e:\chessproject\chessm - copy\lib\intialization.c
+	<stdio.h>
+	"global.h"
+
+1449964649 source:e:\chessproject\chessm - copy\lib\makemove.c
+	"global.h"
+
+1450462807 source:e:\chessproject\chessm - copy\lib\movecheck.c
+	"global.h"
+
+1450261155 source:e:\chessproject\chessm - copy\lib\saveload.c
+	"global.h"
+	<stdio.h>
+	<string.h>
+
+1450465794 source:e:\chessproject\chessm - copy\lib\stalemate.c
+	"global.h"
+	"moveCheck.h"
+	"validation.h"
+	"check.h"
+
+1450431287 e:\chessproject\chessm - copy\lib\validation.h
+
+1450481774 e:\chessproject\chessm - copy\lib\check.h
+
+1450200807 source:e:\chessproject\chessm - copy\lib\undo.c
+	<ctype.h>
+	"global.h"
+
+1450259954 source:e:\chessproject\chessm - copy\lib\validation.c
+	<stdlib.h>
+	"global.h"
+	<ctype.h>
+
+1450510283 source:e:\chessproject\chessm - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/validation.h"
+	"lib/global.h"
+	"lib/intialization.h"
+	"lib/check.h"
+	"lib/undo.h"
+	"lib/stalemate.h"
+	"windows.h"
+
+1449962420 e:\chessproject\chessm - copy\lib\intialization.h
+
+1450185759 e:\chessproject\chessm - copy\lib\undo.h
+
+1450443740 e:\chessproject\chessm - copy\lib\stalemate.h
+
+1450481370 source:e:\chessproject\our final prooooooooject\lib\check.c
+	"global.h"
+	"moveCheck.h"
+
+1450208483 e:\chessproject\our final prooooooooject\lib\global.h
+
+1450462816 e:\chessproject\our final prooooooooject\lib\movecheck.h
+
+1449689376 source:e:\chessproject\our final prooooooooject\lib\global.c
+	<stdio.h>
+	"global.h"
+
+1450027512 source:e:\chessproject\our final prooooooooject\lib\intialization.c
+	<stdio.h>
+	"global.h"
+
+1449964649 source:e:\chessproject\our final prooooooooject\lib\makemove.c
+	"global.h"
+
+1450462807 source:e:\chessproject\our final prooooooooject\lib\movecheck.c
+	"global.h"
+
+1450261155 source:e:\chessproject\our final prooooooooject\lib\saveload.c
+	"global.h"
+	<stdio.h>
+	<string.h>
+
+1450465794 source:e:\chessproject\our final prooooooooject\lib\stalemate.c
+	"global.h"
+	"moveCheck.h"
+	"validation.h"
+	"check.h"
+
+1450431287 e:\chessproject\our final prooooooooject\lib\validation.h
+
+1450481774 e:\chessproject\our final prooooooooject\lib\check.h
+
+1450200807 source:e:\chessproject\our final prooooooooject\lib\undo.c
+	<ctype.h>
+	"global.h"
+
+1450259954 source:e:\chessproject\our final prooooooooject\lib\validation.c
+	<stdlib.h>
+	"global.h"
+	<ctype.h>
+
+1450625499 source:e:\chessproject\our final prooooooooject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/validation.h"
+	"lib/global.h"
+	"lib/intialization.h"
+	"lib/check.h"
+	"lib/undo.h"
+	"lib/stalemate.h"
+	"windows.h"
+
+1449962420 e:\chessproject\our final prooooooooject\lib\intialization.h
+
+1450185759 e:\chessproject\our final prooooooooject\lib\undo.h
+
+1450443740 e:\chessproject\our final prooooooooject\lib\stalemate.h
+
+1450857954 source:e:\koleya\1st year\1st term\computer\project\final merge\lib\check.c
+	"global.h"
+	"moveCheck.h"
+	<ctype.h>
+
+1450208483 e:\koleya\1st year\1st term\computer\project\final merge\lib\global.h
+
+1450462816 e:\koleya\1st year\1st term\computer\project\final merge\lib\movecheck.h
+
+1449689376 source:e:\koleya\1st year\1st term\computer\project\final merge\lib\global.c
+	<stdio.h>
+	"global.h"
+
+1450027512 source:e:\koleya\1st year\1st term\computer\project\final merge\lib\intialization.c
+	<stdio.h>
+	"global.h"
+
+1449964649 source:e:\koleya\1st year\1st term\computer\project\final merge\lib\makemove.c
+	"global.h"
+
+1450462807 source:e:\koleya\1st year\1st term\computer\project\final merge\lib\movecheck.c
+	"global.h"
+
+1450261155 source:e:\koleya\1st year\1st term\computer\project\final merge\lib\saveload.c
+	"global.h"
+	<stdio.h>
+	<string.h>
+
+1450465794 source:e:\koleya\1st year\1st term\computer\project\final merge\lib\stalemate.c
+	"global.h"
+	"moveCheck.h"
+	"validation.h"
+	"check.h"
+
+1450431287 e:\koleya\1st year\1st term\computer\project\final merge\lib\validation.h
+
+1450481774 e:\koleya\1st year\1st term\computer\project\final merge\lib\check.h
+
+1450200807 source:e:\koleya\1st year\1st term\computer\project\final merge\lib\undo.c
+	<ctype.h>
+	"global.h"
+
+1450259954 source:e:\koleya\1st year\1st term\computer\project\final merge\lib\validation.c
+	<stdlib.h>
+	"global.h"
+	<ctype.h>
+
+1450861451 source:e:\koleya\1st year\1st term\computer\project\final merge\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/validation.h"
+	"lib/global.h"
+	"lib/intialization.h"
+	"lib/check.h"
+	"lib/undo.h"
+	"lib/stalemate.h"
+
+1449962420 e:\koleya\1st year\1st term\computer\project\final merge\lib\intialization.h
+
+1450185759 e:\koleya\1st year\1st term\computer\project\final merge\lib\undo.h
+
+1450443740 e:\koleya\1st year\1st term\computer\project\final merge\lib\stalemate.h
+
+1450869610 source:e:\koleya\1st year\1st term\computer\project\final merge marc\lib\check.c
+	"global.h"
+	"moveCheck.h"
+	<ctype.h>
+
+1450208483 e:\koleya\1st year\1st term\computer\project\final merge marc\lib\global.h
+
+1450462816 e:\koleya\1st year\1st term\computer\project\final merge marc\lib\movecheck.h
+
+1449689376 source:e:\koleya\1st year\1st term\computer\project\final merge marc\lib\global.c
+	<stdio.h>
+	"global.h"
+
+1450027512 source:e:\koleya\1st year\1st term\computer\project\final merge marc\lib\intialization.c
+	<stdio.h>
+	"global.h"
+
+1449964649 source:e:\koleya\1st year\1st term\computer\project\final merge marc\lib\makemove.c
+	"global.h"
+
+1450869468 source:e:\koleya\1st year\1st term\computer\project\final merge marc\lib\movecheck.c
+	"global.h"
+
+1450261155 source:e:\koleya\1st year\1st term\computer\project\final merge marc\lib\saveload.c
+	"global.h"
+	<stdio.h>
+	<string.h>
+
+1450465794 source:e:\koleya\1st year\1st term\computer\project\final merge marc\lib\stalemate.c
+	"global.h"
+	"moveCheck.h"
+	"validation.h"
+	"check.h"
+
+1450431287 e:\koleya\1st year\1st term\computer\project\final merge marc\lib\validation.h
+
+1450481774 e:\koleya\1st year\1st term\computer\project\final merge marc\lib\check.h
+
+1450200807 source:e:\koleya\1st year\1st term\computer\project\final merge marc\lib\undo.c
+	<ctype.h>
+	"global.h"
+
+1450259954 source:e:\koleya\1st year\1st term\computer\project\final merge marc\lib\validation.c
+	<stdlib.h>
+	"global.h"
+	<ctype.h>
+
+1450869687 source:e:\koleya\1st year\1st term\computer\project\final merge marc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/validation.h"
+	"lib/global.h"
+	"lib/intialization.h"
+	"lib/check.h"
+	"lib/undo.h"
+	"lib/stalemate.h"
+	"windows.h"
+
+1449962420 e:\koleya\1st year\1st term\computer\project\final merge marc\lib\intialization.h
+
+1450185759 e:\koleya\1st year\1st term\computer\project\final merge marc\lib\undo.h
+
+1450443740 e:\koleya\1st year\1st term\computer\project\final merge marc\lib\stalemate.h
+
+1449689376 source:e:\chessproject\final\final-merge-marc\final merge marc\lib\global.c
+	<stdio.h>
+	"global.h"
+
+1450208483 e:\chessproject\final\final-merge-marc\final merge marc\lib\global.h
+
+1450027512 source:e:\chessproject\final\final-merge-marc\final merge marc\lib\intialization.c
+	<stdio.h>
+	"global.h"
+
+1449964649 source:e:\chessproject\final\final-merge-marc\final merge marc\lib\makemove.c
+	"global.h"
+
+1450880749 source:e:\chessproject\final\final-merge-marc\final merge marc\lib\movecheck.c
+	"global.h"
+
+1450873149 source:e:\chessproject\final\final-merge-marc\final merge marc\lib\saveload.c
+	"global.h"
+	<stdio.h>
+	<string.h>
+
+1450465794 source:e:\chessproject\final\final-merge-marc\final merge marc\lib\stalemate.c
+	"global.h"
+	"moveCheck.h"
+	"validation.h"
+	"check.h"
+
+1450462816 e:\chessproject\final\final-merge-marc\final merge marc\lib\movecheck.h
+
+1450431287 e:\chessproject\final\final-merge-marc\final merge marc\lib\validation.h
+
+1450481774 e:\chessproject\final\final-merge-marc\final merge marc\lib\check.h
+
+1450890734 source:e:\chessproject\final\final-merge-marc\final merge marc\lib\undo.c
+	<ctype.h>
+	"global.h"
+
+1450875072 source:e:\chessproject\final\final-merge-marc\final merge marc\lib\validation.c
+	<stdlib.h>
+	"global.h"
+	<ctype.h>
+
+1450885962 source:e:\chessproject\final\final-merge-marc\final merge marc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/validation.h"
+	"lib/global.h"
+	"lib/intialization.h"
+	"lib/check.h"
+	"lib/undo.h"
+	"lib/stalemate.h"
+	"windows.h"
+
+1449962420 e:\chessproject\final\final-merge-marc\final merge marc\lib\intialization.h
+
+1450185759 e:\chessproject\final\final-merge-marc\final merge marc\lib\undo.h
+
+1450443740 e:\chessproject\final\final-merge-marc\final merge marc\lib\stalemate.h
+
+1450872133 source:e:\chessproject\final\final-merge-marc\final merge marc\lib\check.c
+	"global.h"
+	"moveCheck.h"
+	<ctype.h>
+
+1450890161 source:e:\chessproject\final\final-merge-marc\final merge marc\lib\castle..c
+	"global.h"
+
+1450890161 source:c:\users\mavloper\desktop\final merge marc\lib\castle..c
+	"global.h"
+
+1450208483 c:\users\mavloper\desktop\final merge marc\lib\global.h
+
+1450896213 source:c:\users\mavloper\desktop\final merge marc\lib\check.c
+	"global.h"
+	"moveCheck.h"
+	<ctype.h>
+
+1450462816 c:\users\mavloper\desktop\final merge marc\lib\movecheck.h
+
+1449689376 source:c:\users\mavloper\desktop\final merge marc\lib\global.c
+	<stdio.h>
+	"global.h"
+
+1450027512 source:c:\users\mavloper\desktop\final merge marc\lib\intialization.c
+	<stdio.h>
+	"global.h"
+
+1449964649 source:c:\users\mavloper\desktop\final merge marc\lib\makemove.c
+	"global.h"
+
+1450880749 source:c:\users\mavloper\desktop\final merge marc\lib\movecheck.c
+	"global.h"
+
+1450873149 source:c:\users\mavloper\desktop\final merge marc\lib\saveload.c
+	"global.h"
+	<stdio.h>
+	<string.h>
+
+1450465794 source:c:\users\mavloper\desktop\final merge marc\lib\stalemate.c
+	"global.h"
+	"moveCheck.h"
+	"validation.h"
+	"check.h"
+
+1450431287 c:\users\mavloper\desktop\final merge marc\lib\validation.h
+
+1450481774 c:\users\mavloper\desktop\final merge marc\lib\check.h
+
+1450875072 source:c:\users\mavloper\desktop\final merge marc\lib\validation.c
+	<stdlib.h>
+	"global.h"
+	<ctype.h>
+
+1450940736 source:c:\users\mavloper\desktop\final merge marc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/validation.h"
+	"lib/global.h"
+	"lib/intialization.h"
+	"lib/check.h"
+	"lib/undo.h"
+	"lib/stalemate.h"
+	"windows.h"
+
+1449962420 c:\users\mavloper\desktop\final merge marc\lib\intialization.h
+
+1450185759 c:\users\mavloper\desktop\final merge marc\lib\undo.h
+
+1450443740 c:\users\mavloper\desktop\final merge marc\lib\stalemate.h
+
+1450906737 source:c:\users\mavloper\desktop\final merge marc\lib\undo.c
+	<ctype.h>
+	"global.h"
+
+1450940696 source:c:\users\mavloper\desktop\final merge marc\lib\castle.c
+	"global.h"
+
+1450940696 source:c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\castle.c
+	"global.h"
+
+1450208483 c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\global.h
+
+1450941403 source:c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\check.c
+	"global.h"
+	"moveCheck.h"
+	<ctype.h>
+
+1450462816 c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\movecheck.h
+
+1450941861 source:c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\global.c
+	<stdio.h>
+	"global.h"
+
+1450027512 source:c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\intialization.c
+	<stdio.h>
+	"global.h"
+
+1449964649 source:c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\makemove.c
+	"global.h"
+
+1450880749 source:c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\movecheck.c
+	"global.h"
+
+1450873149 source:c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\saveload.c
+	"global.h"
+	<stdio.h>
+	<string.h>
+
+1450465794 source:c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\stalemate.c
+	"global.h"
+	"moveCheck.h"
+	"validation.h"
+	"check.h"
+
+1450431287 c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\validation.h
+
+1450481774 c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\check.h
+
+1450906737 source:c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\undo.c
+	<ctype.h>
+	"global.h"
+
+1450875072 source:c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\validation.c
+	<stdlib.h>
+	"global.h"
+	<ctype.h>
+
+1450942044 source:c:\users\mavloper\desktop\chess project (bishoy & marc)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/validation.h"
+	"lib/global.h"
+	"lib/intialization.h"
+	"lib/check.h"
+	"lib/undo.h"
+	"lib/stalemate.h"
+	"windows.h"
+
+1449962420 c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\intialization.h
+
+1450185759 c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\undo.h
+
+1450443740 c:\users\mavloper\desktop\chess project (bishoy & marc)\lib\stalemate.h
+
